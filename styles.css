@@ -1,0 +1,119 @@
+.header {
+    display: flex;
+    position:absolute;
+    top:10px;
+    right: 10px;
+}
+
+.link0 {
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Heebo', sans-serif;
+    text-decoration: none;
+    color: #21243D;
+    font-weight: 500;
+}
+
+.link01 {
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Heebo', sans-serif;
+    color: #FF6464;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.body_1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+}
+
+.card {
+    display: flex;
+    padding-top: 90px;
+}
+
+.card1 {
+    display: flex;
+    padding-top: 25px;
+}
+
+
+
+.card_in_text {
+    padding-top: 16px;
+    display: flex;
+}
+
+
+.card_text {
+    margin-top: 0px;
+    margin-left: 18px;
+}
+
+.card_in_text1 {
+    padding-top: 19px;
+    display: flex;
+    color: #21243D;
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+ 
+.dash {
+    padding-left: 36px;
+}
+
+.card_text1 {
+    font-family: 'Heebo', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: #21243D;
+}
+
+.a2020 {
+    color: #FFFFFF;
+    background-color: #142850;
+    width: 62px;
+    height: 25px;
+    border-radius: 16px;
+    font-family: 'Heebo', sans-serif;
+    text-align: center;
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.dash {
+    font-family: 'Heebo', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #8695A4;
+}
+
+.text {
+    font-family: 'Heebo', sans-serif;
+    font-weight: 900;
+    font-size: 44px;
+}
+
+.footer-pngs {
+    display: flex;
+    padding-top: 60px;
+    justify-content: center;
+}
+
+.sc {
+    padding-left: 35px;
+}
+
+.foot-text {
+    font-family: 'Heebo', sans-serif;
+    padding-top: 30px;
+    padding-left: 35px;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+}
